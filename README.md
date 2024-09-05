@@ -1,12 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Hyunseo Kim
 
+- #### 🌱 I’m currently learning [Computer Science](https://computer.seoultech.ac.kr/) in [SEOULTECH](https://en.seoultech.ac.kr/)
+
+- #### 🤔 I upload my algorithm solution in [Here](https://github.com/kim001hs/Solved_Algorithm)
 <!--
 **kim001hs/kim001hs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning [Computer Science](https://computer.seoultech.ac.kr/) in [SEOULTECH](https://en.seoultech.ac.kr/)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
