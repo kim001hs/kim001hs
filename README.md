@@ -1,23 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:74eeb1,100:193549&height=230&width=100%&section=header&text=HyunSeo&fontSize=70&fontColor=FFFFFF&animation=fadeIn)
-## Hi there 👋 I'm Hyunseo Kim
-
-- #### 🌱 I’m currently learning [Computer Science](https://computer.seoultech.ac.kr/) in [SEOULTECH](https://en.seoultech.ac.kr/)
-
-- #### 🤔 I upload my algorithm solution in [Here](https://github.com/kim001hs/Solved_Algorithm)
 <!--
 **kim001hs/kim001hs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:-->
 
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:74eeb1,100:193549&height=230&width=100%&section=header&text=HyunSeo&fontSize=70&fontColor=FFFFFF&animation=fadeIn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning [Computer Science](https://computer.seoultech.ac.kr/) in [SEOULTECH](https://en.seoultech.ac.kr/)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![kim001hs's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim001hs&theme=ambient_gradient&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim001hs)](https://solved.ac/kim001hs/)
 
 
