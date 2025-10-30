@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:74eeb1,100:193549&height=230&width=100%&section=header&text=HyunSeo&fontSize=70&fontColor=e683d8&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:74eeb1,100:193549&height=230&width=100%&section=header&text=HyunSeo&fontSize=70&fontColor=FFFFFF&animation=fadeIn)
 ## Hi there 👋 I'm Hyunseo Kim
 
 - #### 🌱 I’m currently learning [Computer Science](https://computer.seoultech.ac.kr/) in [SEOULTECH](https://en.seoultech.ac.kr/)
