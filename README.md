@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:74eeb1,100:193549&height=230&width=100%&section=header&text=HeeSoo&fontSize=70&fontColor=e683d8&animation=fadeIn)
 ## Hi there 👋 I'm Hyunseo Kim
 
 - #### 🌱 I’m currently learning [Computer Science](https://computer.seoultech.ac.kr/) in [SEOULTECH](https://en.seoultech.ac.kr/)
@@ -18,3 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim001hs)](https://solved.ac/kim001hs/)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:74eeb1,100:193549&height=100&section=footer)
