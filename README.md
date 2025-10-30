@@ -2,7 +2,7 @@
 **kim001hs/kim001hs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
 
-![header](https://capsule-render.vercel.app/api?type=blur&height=200&text=Kim%20Hyun%20Seo&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=blur&height=200&text=Kim%20Hyun%20Seo&section=header&fontColor=636363&reversal=false&textBg=false&fontAlign=50&fontSize=50)
 
 
 ![kim001hs's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim001hs&theme=graywhite&show_icons=true)
