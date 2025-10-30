@@ -5,7 +5,7 @@ Here are some ideas to get you started:-->
 ![header](https://capsule-render.vercel.app/api?type=blur&height=200&text=Kim%20Hyun%20Seo&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=50)
 
 
-![kim001hs's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim001hs&theme=transparent&show_icons=true)
+![kim001hs's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim001hs&theme=graywhite&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim001hs)](https://solved.ac/kim001hs/)
 
 
