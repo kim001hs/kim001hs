@@ -4,6 +4,9 @@ Here are some ideas to get you started:-->
 ![header](https://capsule-render.vercel.app/api?type=blur&height=200&text=Kim%20Hyun%20Seo&section=header&fontColor=636363&reversal=false&textBg=false&fontAlign=50&fontSize=50)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=김현서의+깃허브입니다!;)](https://git.io/typing-svg)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim001hs)](https://solved.ac/kim001hs/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kim001hs&theme=cold)
+
 <div align="center">
   <a href="https://github.com/kim001hs"><img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github" /></a>
   <a href="mailto:kim001hs@gmail.com"><img src="https://img.shields.io/badge/Email-5C4033?style=social&logo=gmail" /></a>
