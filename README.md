@@ -38,29 +38,27 @@ Computer Engineering student interested in **Cloud Infrastructure & DevOps**.
 
 `Kubernetes` `AWS` `Prometheus` `Grafana` `Keep` `Terraform`
 
-- Developing a Kubernetes-based environment for observability, incident analysis, and chaos engineering
+Developing a Kubernetes-based environment for observability, incident analysis, and chaos engineering
 
 ---
 
 #### [StoLink](https://github.com/stolink)
 **2025.12 – 2026.02** · Team Project
 
-**Role** · Infrastructure & Full-stack Contribution  
-**Tech** · AWS · Terraform · Docker · GitHub Actions · React · Spring Boot · PostgreSQL
+`AWS` `Terraform` `Docker` `GitHub Actions` `React` `Spring Boot`
 
-- Designed and deployed AWS cloud infrastructure
-- Managed infrastructure with Terraform and automated CI/CD with GitHub Actions
-- Containerized application services with Docker
-- Contributed to frontend and backend development using React and Spring Boot
+Designed cloud infrastructure and CI/CD while contributing to application development.
 
 ---
 
 #### [Pintos](https://github.com/kim001hs/pintos_vm)
-**2025.11 – 2025.12** · KRAFTON Jungle
+**2025.11 – 2025.12** · 
 
 **Tech** · C · Operating Systems
 
-- Implemented core OS features including threads, system calls, and virtual memory
+Implemented core OS features including threads, system calls, and virtual memory
+
+---
 
 ### 🧩 Problem Solving
 
