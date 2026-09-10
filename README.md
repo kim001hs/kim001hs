@@ -1,23 +1,71 @@
-<!--
-**kim001hs/kim001hs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:-->
-![header](https://capsule-render.vercel.app/api?type=blur&height=200&text=Kim%20Hyun%20Seo&section=header&fontColor=636363&reversal=false&textBg=false&fontAlign=50&fontSize=50)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=김현서의+깃허브입니다!;)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=blur&height=200&text=Kim%20Hyun%20Seo&section=header&fontColor=636363&fontAlign=50&fontSize=50)
+
+## 👋 Hi, I'm Hyunseo
+
+Computer Engineering student interested in **Cloud Infrastructure & DevOps**.
+
+### 🛠 Tech Stack
+
+**Infrastructure & Cloud**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
+</p>
+
+**DevOps & Observability**
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+</p>
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+</p>
+
+### 🚀 Projects
+
+#### [AIOps & Chaos Engineering on Kubernetes](https://github.com/kim001hs/msa-demo)
+**2026.09 – Present** · Capstone Design
+
+`Kubernetes` `AWS` `Prometheus` `Grafana` `Keep` `Terraform`
+
+- Developing a Kubernetes-based environment for observability, incident analysis, and chaos engineering
+
+---
+
+#### [StoLink](https://github.com/stolink)
+**2025.12 – 2026.02** · Team Project
+
+**Role** · Infrastructure & Full-stack Contribution  
+**Tech** · AWS · Terraform · Docker · GitHub Actions · React · Spring Boot · PostgreSQL
+
+- Designed and deployed AWS cloud infrastructure
+- Managed infrastructure with Terraform and automated CI/CD with GitHub Actions
+- Containerized application services with Docker
+- Contributed to frontend and backend development using React and Spring Boot
+
+---
+
+#### [Pintos](https://github.com/kim001hs/pintos_vm)
+**2025.11 – 2025.12** · KRAFTON Jungle
+
+**Tech** · C · Operating Systems
+
+- Implemented core OS features including threads, system calls, and virtual memory
+
+### 🧩 Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim001hs)](https://solved.ac/kim001hs/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=kim001hs&theme=cold)
 
-<div align="center">
-  <a href="https://github.com/kim001hs"><img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github" /></a>
-  <a href="mailto:kim001hs@gmail.com"><img src="https://img.shields.io/badge/Email-5C4033?style=social&logo=gmail" /></a>
-  <br>
+### 🔗 Links
 
- <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
- <br>
-  <img src="https://komarev.com/ghpvc/?username=kim001hs&style=flat-square&color=5C4033" alt="profile views"/>
-</div>
-
-
+[GitHub](https://github.com/kim001hs) · [Blog](https://kim001hs.tistory.com) · [Email](mailto:kim001hs@gmail.com)
